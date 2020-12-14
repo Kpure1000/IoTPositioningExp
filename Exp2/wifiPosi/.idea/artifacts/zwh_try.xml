@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="zwh_try">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/zwh_try</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="zwh_try.apk" />
+  </artifact>
+</component>

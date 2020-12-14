@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.edu.xjtlu.eee.wifiscanner"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="8"
+8-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="18" />
+9-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:8:5-76
+11-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:8:22-73
+12    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+12-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:9:5-76
+12-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:9:22-73
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:10:5-81
+13-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:10:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:12:5-67
+14-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:12:22-64
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:14:5-81
+15-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:14:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:15:5-79
+16-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:15:22-76
+17
+18    <application
+18-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:17:5-31:19
+19        android:allowBackup="true"
+19-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:18:9-35
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_launcher"
+21-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:19:9-45
+22        android:label="WiFi指纹定位"
+22-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:20:9-33
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:21:9-40
+25        <activity
+25-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:22:9-30:20
+26            android:name="cn.edu.xjtlu.eee.wifiscanner.MainActivity"
+26-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:23:13-69
+27            android:label="WiFi指纹定位" >
+27-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:24:13-37
+28            <intent-filter>
+28-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:25:13-29:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:26:17-69
+29-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:26:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:28:17-77
+31-->D:\wifiScannermaster\wifiScannermaster\app\src\main\AndroidManifest.xml:28:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>
