@@ -14,8 +14,11 @@
 ### 已有文件说明
 _存在Exp2中_
 __这些文件都是用安卓实现的__
-1. wifiScannermaster文件为学长A的代码
-1. wifiPosi文件为学姐A的代码
+1. wifiScannermaster文件为学长A的代码 _因为需要安卓4，所以改名为'wifiScannermaster-android4'_
+__但是后来发现生成的包又可以实现扫描，所以勉强可能可以用__
+1. wifiPosi文件为学姐A的代码 _因为环境配置问题暂时用不了，所以给名为'wifiPosi-compliedfailed'_
+1. BeaconLocation文件为学姐B的代码，但是好像是定位课设的代码，基于蓝牙的定位
+1. WifiScan文件为学长B的代码，WifiScan2的好像也是，但是还没跑过
 _因为是java文件，所以可能文件名要改_
 ## 实验三
 ### 任务目标
