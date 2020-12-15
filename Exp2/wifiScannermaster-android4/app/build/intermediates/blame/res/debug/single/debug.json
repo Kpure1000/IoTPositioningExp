@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_menu.xml.flat",
+        "source": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\for_github\\IoTPositioningExp\\Exp2\\wifiScannermaster\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+//    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "cn.edu.xjtlu.eee.wifiscanner"
+        minSdkVersion 8
+        targetSdkVersion 29
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildToolsVersion '30.0.3'
+
+    android.applicationVariants.all {
+        variant ->
+            variant.outputs.all {
+                // 此处指定生成的apk文件名
+                outputFileName = "wifi.apk"
+            }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:18.0.0'
+}

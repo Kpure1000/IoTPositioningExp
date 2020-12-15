@@ -1,4 +1,0 @@
-#Thu Dec 19 11:27:04 CST 2019
-base.0=D\:\\wifiScannermaster\\wifiScannermaster\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
